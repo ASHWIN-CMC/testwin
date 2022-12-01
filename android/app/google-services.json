@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "696307913092",
+    "project_id": "textwin-cdb4f",
+    "storage_bucket": "textwin-cdb4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696307913092:android:31e287cd7c727ff604cdd1",
+        "android_client_info": {
+          "package_name": "com.example.testwin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696307913092-9vim15csrm18v1smikt8d4je4bpcq3og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4FPIvlXUwyVbtaQbMhEpxIdeVSN-vpi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696307913092-9vim15csrm18v1smikt8d4je4bpcq3og.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
